@@ -1,0 +1,6 @@
+# Claude memory files — personal, not part of the project
+memory/
+
+# OS files
+.DS_Store
+Thumbs.db
